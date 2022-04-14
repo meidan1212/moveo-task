@@ -22,10 +22,47 @@ body{
     border-radius: 10px;
     box-shadow: 0px 5px 5px rgba(0,0,0,0.479);
     text-align: center;
+    padding-top: 100px;
 }
 
 .btn-group{
 
     padding: 10px;
-}
+}   
 
+.channel1{
+    background-color: grey;
+    height: 50px;
+}
+.channel2{
+    background-color: rgb(150, 150, 150);
+    height: 50px;
+}
+.channel3{
+    background-color: rgb(155, 155, 155);
+    height: 50px;
+}
+.channel4{
+    background-color: rgb(160, 160, 160);
+    height: 50px;
+}
+.channel5{
+    background-color: rgb(165, 165, 165);
+    height: 50px;
+}
+.channel6{
+    background-color: rgb(170, 170, 170);
+    height: 50px;
+}
+.channel7{
+    background-color: rgb(175, 175, 175);
+    height: 50px;
+}
+.channel8{
+    background-color: rgb(180, 180, 180);
+    height: 50px;
+}
+.channel9{
+    background-color: rgb(185, 185, 185);
+    height: 50px;
+}

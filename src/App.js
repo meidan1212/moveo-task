@@ -148,47 +148,47 @@ function App() {
         currentTime={currentTime}
       />
 
-      <div>
+      <div className="channel1">
       <React.Fragment>
         <ToggleSwitch label="Channel 1 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel2">
       <React.Fragment>
         <ToggleSwitch label="Channel 2 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel3">
       <React.Fragment>
         <ToggleSwitch label="Channel 3 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel4">
       <React.Fragment>
         <ToggleSwitch label="Channel 4 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel5">
       <React.Fragment>
         <ToggleSwitch label="Channel 5 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel6">
       <React.Fragment>
         <ToggleSwitch label="Channel 6 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel7">
       <React.Fragment>
         <ToggleSwitch label="Channel 7 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel8">
       <React.Fragment>
         <ToggleSwitch label="Channel 8 Mute" />
       </React.Fragment>
       </div>
-      <div>
+      <div className="channel9">
       <React.Fragment>
         <ToggleSwitch label="Channel 9 Mute" />
       </React.Fragment>

@@ -44,7 +44,7 @@ color: #fff;
 .inner:after {
 content: "NO";
 padding-right: 10px;
-background-color: #bbb;
+background-color: rgb(223, 222, 222);
 color: #fff;
 text-align: right;
 }
